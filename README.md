@@ -1,1 +1,1 @@
-# kepler-atlas
+A 3D visualization of the Kepler Database, created along with a mentor (Emily Sanford) and 3 other mentees as part of the American Museum of Natural History's Science Research Mentorship Program internship
